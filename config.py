@@ -21,7 +21,7 @@ BOT_NAME = "˹𝐀ᴇᴛʜᴏɴɪ𝐱 ꭙ 𝐌ᴜ𝐬ɪᴄ ˼™"
 
 ASSUSERNAME = "@batmanplayzz"
 
-MONGO_DB_URI = os.getenv('MONGO_DB_URI", "mongodb+srv://Nezuko12:Nezuko12@cluster0.xchck.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0')  # Or with a default: os.getenv('MONGO_DB_URI', 'fallback_uri')
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
