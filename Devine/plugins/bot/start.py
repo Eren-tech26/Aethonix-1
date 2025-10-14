@@ -43,7 +43,7 @@ async def start_pm(client, message: Message, _):
     await asyncio.sleep(0.1)
     await loading_1.delete()
 
-    started_msg = await message.reply_text(text="<b>sᴛᴀʀᴛᴇᴅ...<a href='https://i.ibb.co/rf5HWY5F/photo-2025-08-30-17-35-40-7544433638260080648.jpg'>◎</a></b>' target='_blank'>ㅤ ㅤㅤㅤ</a></b>")
+    started_msg = await message.reply_text(text="<b>sᴛᴀʀᴛᴇᴅ...<a href='https://i.ibb.co/Xr3J7Kv3/photo-2025-10-13-10-24-24-7560650262243704856.jpg'>◎</a></b>' target='_blank'>ㅤ ㅤㅤㅤ</a></b>")
     await asyncio.sleep(0.4)
     await started_msg.delete()
 
@@ -53,7 +53,7 @@ async def start_pm(client, message: Message, _):
             keyboard = help_pannel(_)
             await message.reply_text(
                 text=(
-                    f"<b>ʜᴇʏ {message.from_user.mention}, <a href='https://i.ibb.co/rGmQZjGr/photo-2025-09-17-17-10-56-7551106844911992836.jpg' target='_blank'>⚡️🦇</a></b>\n\n"
+                    f"<b>ʜᴇʏ {message.from_user.mention}, <a href='https://i.ibb.co/Xr3J7Kv3/photo-2025-10-13-10-24-24-7560650262243704856.jpg' target='_blank'>⚡️🦇</a></b>\n\n"
                     f"<b>ᴛʜɪs ɪs {app.mention}, ᴇʟᴇᴠᴀᴛᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ᴀᴡᴇsᴏᴍᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ.</b>\n\n"
                     f"<b>sᴛʀᴇᴀᴍ ʜɪɢʜ-ǫᴜᴀʟɪᴛʏ ᴍᴜsɪᴄ ᴅᴜʀɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛs ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ sᴏɴɢs ᴛᴏ ᴍᴀᴋᴇ ᴀ ғʀɪᴇɴᴅʟʏ & ʟᴏᴠᴇʟʏ ᴀᴛᴍᴏsᴘʜᴇʀᴇ!</b>"
                     ),
@@ -116,7 +116,7 @@ async def start_pm(client, message: Message, _):
         out = private_panel(_)
         await message.reply_text(
             text=(
-                 f"<b>ʏᴏᴏ {message.from_user.mention}, <a href='https://i.ibb.co/rGmQZjGr/photo-2025-09-17-17-10-56-7551106844911992836.jpg' target='_blank'>⚡️🦇</a></b>\n\n"
+                 f"<b>ʏᴏᴏ {message.from_user.mention}, <a href='https://i.ibb.co/Xr3J7Kv3/photo-2025-10-13-10-24-24-7560650262243704856.jpg' target='_blank'>⚡️🦇</a></b>\n\n"
                  f"<b>ᴛʜɪs ɪs {app.mention}, ᴇʟᴇᴠᴀᴛᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴠɪᴅᴇᴏ ᴄʜᴀᴛ ᴡɪᴛʜ ᴛʜɪs ᴀᴡᴇsᴏᴍᴇ ᴛᴇʟᴇɢʀᴀᴍ ᴍᴜsɪᴄ ʙᴏᴛ.</b>\n\n"
                  f"<b>sᴛʀᴇᴀᴍ ʜɪɢʜ-ǫᴜᴀʟɪᴛʏ ᴍᴜsɪᴄ ᴅᴜʀɪɴɢ ʏᴏᴜʀ ᴄʜᴀᴛs ᴀɴᴅ sʜᴀʀᴇ ʏᴏᴜʀ ғᴀᴠᴏʀɪᴛᴇ sᴏɴɢs ᴛᴏ ᴄʀᴇᴀᴛᴇ ᴀ ʟᴏᴠᴇʟʏ ᴀᴛᴍᴏsᴘʜᴇʀᴇ!</b>"
             ),
