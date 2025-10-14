@@ -21,6 +21,11 @@ BOT_NAME = "˹𝐀ᴇᴛʜᴏɴɪ𝐱 ꭙ 𝐌ᴜ𝐬ɪᴄ ˼™"
 
 ASSUSERNAME = "@batmanplayzz"
 
+import os
+
+# Other imports if needed
+# import something_else
+
 MONGO_DB_URI = os.getenv(
     "MONGO_DB_URI",
     "mongodb+srv://Nezuko12:Nezuko12@cluster0.xchck.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
