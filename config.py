@@ -13,7 +13,7 @@ BOT_TOKEN = "7616480254:AAFwqQ4CfuEENBvnhYzmgTHbLNsuld8XB_0"
 
 BOT_ID = 7616480254
 
-BOT_USERNAME = "@aethonixmusicbot"
+BOT_USERNAME = "@Aethonixmusicbot"
 
 OWNER_USERNAME = "@eren_aethonix"
 
@@ -21,7 +21,7 @@ BOT_NAME = "˹𝐀ᴇᴛʜᴏɴɪ𝐱 ꭙ 𝐌ᴜ𝐬ɪᴄ ˼™"
 
 ASSUSERNAME = "@batmanplayzz"
 
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://thebiggestcomebackever:EREN1234@cluster0.7q7ri.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "MONGO_DB_URI", "mongodb+srv://Nezuko12:Nezuko12@cluster0.xchck.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 
 API_URL = getenv("API_URL", 'https://api.thequickearn.xyz') #youtube song url
 VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.thequickearn.xyz')
@@ -87,12 +87,8 @@ votemode = {}
 autoclean = []
 confirmer = {}
 
-START_IMG_URL = getenv(
-    "START_IMG_URL", "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
-)
-PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
-)
+
+START_IMG_URL =  "https://i.ibb.co/Xr3J7Kv3/photo-2025-10-13-10-24-24-7560650262243704856.jpg"
 PLAYLIST_IMG_URL = "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
 STATS_IMG_URL = "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
 TELEGRAM_AUDIO_URL = "https://i.ibb.co/kgvX7FPC/photo-2025-10-13-10-24-24-7560650262243704836.jpg"
