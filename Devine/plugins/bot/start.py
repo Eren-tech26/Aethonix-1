@@ -30,7 +30,7 @@ from strings import get_string
 async def start_pm(client, message: Message, _):
     await add_served_user(message.from_user.id)
 
-    loading_1 = await message.reply_text("🦇")
+    loading_1 = await message.reply_text("💥")
     await asyncio.sleep(0.1)
     
     await loading_1.edit_text("<b>ʟᴏᴀᴅɪɴɢ</b>")
